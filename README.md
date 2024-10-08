@@ -1,3 +1,4 @@
 ## Hi there 👋
-A Frontend Developer
+I'm Odusina Tolulope. A Frontend Develope
+
 
